@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "https://.github.io/csb-49fzh9/static/js/main.a544a7bb.chunk.js",
+    "main.js.map": "https://.github.io/csb-49fzh9/static/js/main.a544a7bb.chunk.js.map",
+    "runtime-main.js": "https://.github.io/csb-49fzh9/static/js/runtime-main.4b644535.js",
+    "runtime-main.js.map": "https://.github.io/csb-49fzh9/static/js/runtime-main.4b644535.js.map",
+    "static/css/2.679831fc.chunk.css": "https://.github.io/csb-49fzh9/static/css/2.679831fc.chunk.css",
+    "static/js/2.4a53b4f0.chunk.js": "https://.github.io/csb-49fzh9/static/js/2.4a53b4f0.chunk.js",
+    "static/js/2.4a53b4f0.chunk.js.map": "https://.github.io/csb-49fzh9/static/js/2.4a53b4f0.chunk.js.map",
+    "index.html": "https://.github.io/csb-49fzh9/index.html",
+    "static/css/2.679831fc.chunk.css.map": "https://.github.io/csb-49fzh9/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.4a53b4f0.chunk.js.LICENSE.txt": "https://.github.io/csb-49fzh9/static/js/2.4a53b4f0.chunk.js.LICENSE.txt",
+    "static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg": "https://.github.io/csb-49fzh9/static/media/patrick-tomasso-Oaqk7qqNh_c-unsplash.8ca90014.jpg",
+    "static/media/profile-img.e5e63d6e.png": "https://.github.io/csb-49fzh9/static/media/profile-img.e5e63d6e.png",
+    "static/media/spaceman.5ec7fcfa.png": "https://.github.io/csb-49fzh9/static/media/spaceman.5ec7fcfa.png",
+    "static/media/u-said-it-v13-1167.949cee7e.mp3": "https://.github.io/csb-49fzh9/static/media/u-said-it-v13-1167.949cee7e.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b644535.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.4a53b4f0.chunk.js",
+    "static/js/main.a544a7bb.chunk.js"
+  ]
+}
